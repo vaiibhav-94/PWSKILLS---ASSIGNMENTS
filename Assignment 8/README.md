@@ -2,3 +2,9 @@
 ##### Note: 1. The Password should contain at least two uppercase letters and at least two lowercase letters.
 ##### 2. The Password should contain at least a number and three special characters.
 ##### 3. The length of the password should be 10 characters long.
+
+#### Q2. Solve the below-given questions using at least one of the following:
+##### 1. Lambda function
+##### 2. Filter function
+##### 3. Map function
+##### 4. List Comprehension
